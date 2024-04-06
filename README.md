@@ -3,7 +3,10 @@ The Warehouse Navigation Application aims to streamline the process of picking g
 
 ## Features
 - ### Multiple access points enable
-
+Unlike traditional TSP problems, we assume that in the real world, goods on shelves may be blocked by neighboring shelves and thus can only be grabbed from aisles next to the shelves, which we    call access points.
+- ### Optimized results
+- ### Specific Navigation
+  
 ## Project Outcomes
 
 The final deliverable of this project is a working implementation of the Canny Edge Decoder, with simulation and verification results that demonstrate its performance and accuracy. The implementation includes a pipeline architecture that allows for efficient processing of large images, and a memory management system that minimizes memory usage and maximizes throughput.
