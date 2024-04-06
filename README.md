@@ -44,5 +44,5 @@ The Warehouse Navigation Application aims to streamline the process of picking g
     .  
     order99: 422465, 379019, 98888  
 
-    Also, you can set the warehouse size, start position, end position, etc. in the settings panel.
+    Also, you can set the warehouse size, start position, end position, etc. in the settings panel.  
     After all settings are ready, come back to the menu panel and "Go Get Products".
