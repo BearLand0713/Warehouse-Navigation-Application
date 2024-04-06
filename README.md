@@ -22,7 +22,31 @@ The Warehouse Navigation Application aims to streamline the process of picking g
 ## Getting Started
   - ### Install and compile
     Download the source code folder from this repository, and transfer the "Warehouse_Navigation_Application_V5.py" file into an execute file with [py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) or run it with Python compiler.
-  - 
+  - ### Data load and setting
+
+  <img src="https://github.com/BearLand0713/Warehouse-Navigation-Application/blob/a994421493ca0ed1d707c2cb93c22787ea2174f3/image/Menu%20panel.png" width=60%>
+  
+    In the Menu panel, you can load the product info and order list from a text file with the following format.
+    (Samples of both are in the source code folder)
+    ** product info **
+    Product_Id    x-axis of the shelf     y-axis of the shelf
+    1	            2	                      0
+    45	          10                      14
+    .             .                       .
+    .             .                       .
+    74	          10.2	                  8
+      
+    ** order list **
+    (Each row is a single order)
+    order1:  108335, 391825, 340367, 286457, 661741
+    order2:  219130, 365285, 364695
+    .
+    .
+    .
+    order99: 422465, 379019, 98888
+
+    Also, you can set the warehouse size, start position, end position, etc. in the settings panel.
+    After all settings are ready, come back to the menu panel and "Go Get Products"!
 
 
 
