@@ -2,7 +2,7 @@
 The Warehouse Navigation Application aims to streamline the process of picking goods from shelves in a warehouse by employing efficient pathfinding algorithms. This application targets both human workers and robots, ensuring that orders are fulfilled swiftly and accurately while minimizing travel time.
 
 ## Features
-- Multiple access points enable
+- ### Multiple access points enable
 
 ## Project Outcomes
 
