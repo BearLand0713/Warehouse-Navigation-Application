@@ -28,13 +28,19 @@ The Warehouse Navigation Application aims to streamline the process of picking g
     
     In the Menu panel, you can load the product info and order list from a text file with the following format.
     (Samples of both are in the source code folder)  
-    __Product info__        
-    |Product_Id|x-axis of the shelf|y-axis of the shelf| 
-    |1         |                   |0  |
-    |45        |10                 |14  |
-    |.         |.                  |.  |
-    |.         |.                  |.|
-    |74	       |10.2	             |8 | 
+    __Product info__
+    | 表頭1 | 表頭2 | 表頭3 |
+    |:-----|:-----:|:------:|
+    | 左1   |  中1  |   右1 |
+    | 左2   |  中2  |   右2 |
+    | 左3   |  中3  |   右3 |
+
+    Product_Id|x-axis of the shelf|y-axis of the shelf| 
+    1         11                 0  |
+    45        10                 14  |
+    .         .                  .  |
+    .         .                  .|
+    74	      10.2	             8 | 
       
     __Order list__  
     (Each row is a single order)  
