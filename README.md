@@ -20,10 +20,9 @@ The Warehouse Navigation Application aims to streamline the process of picking g
     
   
 ## Getting Started
-
-
-
-## Dependencies
+  - ### Install and compile
+    Download the source code folder from this repository, and transfer the "Warehouse_Navigation_Application_V5.py" file into an execute file with [py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) or run it with Python compiler.
+  - 
 
 
 
