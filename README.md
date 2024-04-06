@@ -30,11 +30,11 @@ The Warehouse Navigation Application aims to streamline the process of picking g
     (Samples of both are in the source code folder)  
     __Product info__        
     |Product_Id|x-axis of the shelf|y-axis of the shelf| 
-    |1         |                   |0  
-    |45        |10                 |14  
-    |.         |.                  |.  
-    |.         |.                  |.  
-    |74	       |10.2	             |8  
+    |1         |                   |0  |
+    |45        |10                 |14  |
+    |.         |.                  |.  |
+    |.         |.                  |.|
+    |74	       |10.2	             |8 | 
       
     __Order list__  
     (Each row is a single order)  
