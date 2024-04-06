@@ -3,7 +3,7 @@ The Warehouse Navigation Application aims to streamline the process of picking g
 
 ## Features
 - ### Multiple access points enable
-Unlike traditional TSP problems, we assume that in the real world, goods on shelves may be blocked by neighboring shelves and thus can only be grabbed from aisles next to the shelves, which we    call access points.
+  Unlike traditional TSP problems, we assume that in the real world, goods on shelves may be blocked by neighboring shelves and thus can only be grabbed from aisles next to the shelves, which we      call access points.
 - ### Optimized results
 - ### Specific Navigation
   
