@@ -3,10 +3,15 @@ The Warehouse Navigation Application aims to streamline the process of picking g
 
 ## Features
 - ### Multiple access points enable
-  Unlike traditional TSP problems, we assume that in the real world, goods on shelves may be blocked by neighboring shelves and thus can only be grabbed from aisles next to the shelves, which we      call access points.
+  Unlike traditional TSP problems, we assume that in the real world, goods on shelves may be blocked by neighboring shelves and thus can only be grabbed from aisles next to the shelves, which we      call access points. Our application enables users to find the shortest path under the constraint of access points.
 - ### Optimized results
+  Recognizing the complexity of the Traveling Salesman Problem (TSP), particularly in large warehouses with extensive order lists, our application employs three distinct algorithms (Branch and   Bound, Held–Karp, and Nearest Neighbor) simultaneously. This approach yields optimized results within predefined time constraints
 - ### Specific Navigation
-  
+   Designed for ease of use, our application not only generates warehouse maps based on user input but also provides detailed routes with maps and instructions. This intuitive interface enhances   user experience and facilitates efficient navigation within the warehouse.
+## How it Works
+
+
+
 ## Project Outcomes
 
 The final deliverable of this project is a working implementation of the Canny Edge Decoder, with simulation and verification results that demonstrate its performance and accuracy. The implementation includes a pipeline architecture that allows for efficient processing of large images, and a memory management system that minimizes memory usage and maximizes throughput.
